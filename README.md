@@ -27,5 +27,5 @@ The setup procedure is as follows:
  - The details for the gmail account which UPASS will use to send notification emails are to be put in the gmail_account_details.py file
  - The name of the google sheet linked with the UPASS assignment submission form is to be put in the google_sheet_name.txt file (refer to UPASS Setup Procedure.docx for details)
  - run_upass.py is to be executed daily after UPASS has been setup, this script executes the daily checks of the UPASS system
- - Your serpstack api key is to be put into the serpstack_api_access_key.py file
+ - Your serpstack api key is to be put into the serpstack_api_access_key.py file (refer to UPASS Setup Procedure.docx for details)
  - setup_upass.py is to be executed once after completing the steps in UPASS Setup Procedure.docx, this script finalises the setup and confirms that UPASS has been set up correctly
