@@ -63,7 +63,10 @@ def import_upass_form_data():
             scopes = ['https://www.googleapis.com/auth/spreadsheets',
                       "https://www.googleapis.com/auth/drive.file",
                       "https://www.googleapis.com/auth/drive"]
-            cred_path = 'service-account-credentials/' + listdir('service-account-credentials')[0]
+            files = listdir('service-account-credentials')
+            for file in files:
+                if 'json' in file:
+                    cred_path = 'service-account-credentials/' + file
             creds = ServiceAccountCredentials.from_json_keyfile_name(cred_path, scopes)
             client = gspread.authorize(creds)
             sheet = client.open(SHEET_NAME).sheet1
