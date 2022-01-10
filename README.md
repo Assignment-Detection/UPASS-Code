@@ -6,6 +6,7 @@ Upon detection of a hit, UPASS sends an email notification.
 ## Description
 
 Project information here ___
+
 The setup procedure is as follows:
  - Follow the steps outlined in the UPASS Setup Procedure.docx file to setup the assignment detail submission form and link it to the UPASS backend
  - Run the setup_upass.py file to confirm that the system has beeen set up correctly
