@@ -18,7 +18,7 @@ The setup procedure is as follows:
  - UPASS may now be run daily by executing the run_upass.py file. Note that a paid serpstack (https://serpstack.com/) plan may be required depending on the volume of assignments and search terms uploaded
 
 
-## File Overview
+### Files & Directories
 
  - The bin directory contains backend files and directories used by UPASS
  - service-account-credentials is a directory where the Google Cloud Platform Service Account json file is to be put (refer to UPASS Setup Procedure.docx for details)
