@@ -1,8 +1,5 @@
 # UPASS - Upload & Pliagarise Alert SyStem
 
-UPASS monitors the internet daily for matches to your assignment questions. 
-Upon detection of a hit, UPASS sends an email notification.
-
 ## What is UPASS
 
 UPASS monitors the internet daily for matches to your assignment questions. Upon detection of a hit, UPASS sends an email notification. 
