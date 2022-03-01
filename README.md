@@ -29,3 +29,8 @@ The setup procedure is as follows:
  - run_upass.py is to be executed daily after UPASS has been setup, this script executes the daily checks of the UPASS system
  - Your serpstack api key is to be put into the serpstack_api_access_key.py file (refer to UPASS Setup Procedure.docx for details)
  - setup_upass.py is to be executed once after completing the steps in UPASS Setup Procedure.docx, this script finalises the setup and confirms that UPASS has been set up correctly
+
+
+## Copyright
+
+Copyright © 2021-2022 Edmund Pickering, Sam Cunningham, Sarah Dart and Rick Somers. This code is available for non-commercial use only. Commercial use is prohibited unless permission from the authors is given upon request. Any other usage is prohibited without the express permission of the authors. 
