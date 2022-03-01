@@ -1,4 +1,4 @@
-# UPASS - Upload & Pliagarise Alert SyStem
+# UPASS - Upload & Pliagarise Alert SyStem - Code
 
 ## What is UPASS
 
