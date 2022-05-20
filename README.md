@@ -34,4 +34,4 @@ The above respository houses the actual UPASS Software, and within, explains wha
 
 ## Copyright
 
-Copyright © 2021-2022 Edmund Pickering, Sam Cunningham, Sarah Dart and Rick Somers. This code is available for non-commercial use only. Commercial use is prohibited unless permission from the authors is given upon request. Any other usage is prohibited without the express permission of the authors. 
+Copyright © 2021-2022 Edmund Pickering, Sam Cunningham, Sarah Dart, Caslon Chua and Rick Somers. This code is available for non-commercial use only. Commercial use is prohibited unless permission from the authors is given upon request. Any other usage is prohibited without the express permission of the authors. 
