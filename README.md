@@ -5,17 +5,9 @@
 
 UPASS monitors the internet daily for matches to your assignment questions. Upon detection of a hit, UPASS sends an email notification. 
 
-UPASS will need to be setup and run on a single computer at your institute, however once setup, it can be used by anyone to submit their assignments to from any computer.
+UPASS will need to be setup and run on a single computer, however once setup, it can be used by anyone to submit their assignments to from any computer.
 
 Please note that both a SerpStack account and Google account will be required for UPASS to be setup and run. Both are free, however, you may be required to upgrade your SerpStack account to a subscription plan to have sufficient API requests to run UPASS once several assignments have been submitted.
-
-## What is this repository
-
-This is for the code savvy and interested who would like to understand how our UPASS software works. Please refer to our sister, UPASS Software Package repository: 
-
-https://github.com/Assignment-Detection/UPASS-Package-zip
-
-The above respository houses the actual UPASS Software, and within, explains what UPASS is and the process for setting it up at your institute.
 
 
 ## Files & Directories
